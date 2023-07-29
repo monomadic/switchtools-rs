@@ -1,3 +1,5 @@
-# NSP (Nintendo Switch Partition) File Format
+# Nintendo Switch Tools for Rust
 
-Rust support for Nintendo Switch NSP files.
+Various Nintendo Switch file formats in rust. Currently supporting:
+
+- NSP (Nintendo Switch Partition) File Format
