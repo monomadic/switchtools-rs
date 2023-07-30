@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/switch.webp" />
+  <img src="assets/switch.webp" width="50%" />
 </p>
 
 # Nintendo Switch Tools for Rust
